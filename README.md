@@ -37,6 +37,20 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <b>Kheronn</b>
       </sub>
     </td>
+    <!-- Imagem Mria Clara-->
+    <td align="center">
+      <img src="https://github.com/pontotori/fominha_app_modulo/assets/133043340/023eec4b-7853-4781-ae65-f514610cc35e" width="100px;" alt="Kheronn"/><br>
+      <sub>
+        <b>Maria Clara</b>
+      </sub>
+    </td>
+    <!-- Imagem Maria Vitoria-->
+    <td align="center">
+      <img src="https://github.com/pontotori/fominha_app_modulo/assets/133043340/023eec4b-7853-4781-ae65-f514610cc35e" width="100px;" alt="Kheronn"/><br>
+      <sub>
+        <b>Maria Vitoria</b>
+      </sub>
+    </td>
     <!-- Imagem de Graziela -->
     <td align="center">
       <img src="https://github.com/pontotori/fominha_app_modulo/assets/133043340/023eec4b-7853-4781-ae65-f514610cc35e" width="100px;" alt="Graziela"/><br>
