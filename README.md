@@ -48,14 +48,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     <td align="center">
       <img src="https://github.com/pontotori/fominha_app_modulo/assets/133043340/023eec4b-7853-4781-ae65-f514610cc35e" width="100px;" alt="Kheronn"/><br>
       <sub>
-        <b>Maria Vitoria</b>
+        <b><p>Maria Vitoria</p> Social Mídia</b>
       </sub>
     </td>
     <!-- Imagem de Graziela -->
     <td align="center">
       <img src="https://github.com/pontotori/fominha_app_modulo/assets/133043340/023eec4b-7853-4781-ae65-f514610cc35e" width="100px;" alt="Graziela"/><br>
       <sub>
-        <b>Graziela</b>
+        <b><p>Graziela</p> Programadora Front-End</b>
       </sub>
     </td>
   </tr>
